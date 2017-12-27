@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: LavaCoin
 description: An Anonymous, Untraceable, Egalitarian Proof Cryptocurrency
+show_downloads: true
